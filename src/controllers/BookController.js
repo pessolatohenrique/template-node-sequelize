@@ -19,6 +19,20 @@ class BookController {
     }
   }
 
+  static async show(req, res) {
+    try {
+      const { id } = req.params;
+      const result = await model.findOne({
+        where: { id },
+        include: ["Author"],
+      });
+
+      return res.status(200).json(result);
+    } catch (error) {
+      return res.status(500).json(error);
+    }
+  }
+
   static async sumPagesByAuthor(req, res) {
     try {
       const result = await model.findAll({
