@@ -7,6 +7,7 @@ router.get("/", (req, res) => res.status(200).send({ message: "initial" }));
 router.get("/author", AuthorController.index);
 router.get("/author/:id", AuthorController.show);
 router.get("/author/:id/restore", AuthorController.restore);
+router.get("/author/:id/books", AuthorController.getBooks);
 router.post("/author", AuthorController.store);
 router.put("/author/:id", AuthorController.update);
 router.delete("/author/:id", AuthorController.destroy);

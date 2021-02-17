@@ -14,7 +14,14 @@ class AuthorController {
     try {
       const { id } = req.params;
       const result = await model.findOne({ where: { id } });
-      return res.status(200).json(result);
+      const books = await result.getBooks();
+
+      const response = {
+        result,
+        books: [...books],
+      };
+
+      return res.status(200).json(response);
     } catch (error) {
       return res.status(500).json(error);
     }
@@ -67,13 +74,22 @@ class AuthorController {
       const { id } = req.params;
       const restored = await model.restore({ where: { id } });
 
-      console.log("restored", id);
-
       if (restored) {
         return res.status(200).json({ message: `author ${id} was restored` });
       }
 
       return res.status(200).json({ message: `author ${id} not found` });
+    } catch (error) {
+      return res.status(500).json(error);
+    }
+  }
+
+  static async getBooks(req, res) {
+    try {
+      const { id } = req.params;
+      const author = await model.findOne({ where: { id } });
+      const books = await author.getBooks();
+      return res.status(200).json(books);
     } catch (error) {
       return res.status(500).json(error);
     }
