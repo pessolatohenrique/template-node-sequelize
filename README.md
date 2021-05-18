@@ -45,6 +45,10 @@ Por exemplo:
 
     npx sequelize-cli --help
 
+Para verificar os parâmetros permitidos em um comando, utilizar o "help". Por exemplo:
+
+    npx sequelize-cli --help db:seed
+
 ### Observações
 
 Os endpoints criados podem ser importados por meio do arquivo "endpoints.json" em um Software como o Postman (ou semelhante).
