@@ -1,9 +1,13 @@
 const model = require("../models").User;
+const tokens = require("../auth/tokens");
 
 class UserController {
   static async login(req, res) {
     try {
-      return res.status(200).json({ message: "login with success" });
+      const { user } = req;
+      const token = tokens.access.create(user.id);
+      res.set({ Authorization: token });
+      return res.status(200).json({ accessToken: token });
     } catch (error) {
       return res.status(500).json(error);
     }
