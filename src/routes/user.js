@@ -6,5 +6,6 @@ const middlewares = require("../auth/middlewares");
 const router = Router();
 
 router.route("/login").post(middlewares.local, UserController.login);
+router.route("/refresh_token").post(middlewares.refresh, UserController.login);
 
 module.exports = router;

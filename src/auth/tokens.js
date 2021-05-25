@@ -19,10 +19,14 @@ module.exports = {
       const token = crypto.randomBytes(24).toString("hex");
       const expires_at = moment().add("5", "d").unix();
       await allowList.insert(token, id, expires_at);
-
-      const getTeste = await allowList.search(token);
-      console.log("GET KEY FROM INSERT", token, getTeste);
       return token;
+    },
+    async search(refreshToken) {
+      const id = await allowList.search(refreshToken);
+      return id;
+    },
+    async delete(refreshToken) {
+      await allowList.delete(refreshToken);
     },
   },
 };
