@@ -1,6 +1,15 @@
 const model = require("../models").Author;
 
+/**
+ * Represents Controller to Author Requests
+ */
 class AuthorController {
+  /**
+   * list all authors
+   * @param {object} req request from express
+   * @param {object} res response from express
+   * @return {array} result list of authors
+   */
   static async index(req, res) {
     try {
       const result = await model.findAll();
@@ -10,6 +19,12 @@ class AuthorController {
     }
   }
 
+  /**
+   * show specific author and respective books
+   * @param {object} req request from express
+   * @param {object} res response from express
+   * @result {object} response for specific author
+   */
   static async show(req, res) {
     try {
       const { id } = req.params;
@@ -27,6 +42,12 @@ class AuthorController {
     }
   }
 
+  /**
+   * insert author into the database
+   * @param {object} req request from express
+   * @param {object} res response from express
+   * @return {object} result with inserted author
+   */
   static async store(req, res) {
     try {
       const result = await model.create(req.body);
@@ -36,6 +57,12 @@ class AuthorController {
     }
   }
 
+  /**
+   * update specific user
+   * @param {object} req request from express
+   * @param {object} res response from express
+   * @return {object} result with updated author
+   */
   static async update(req, res) {
     try {
       const { id } = req.params;
@@ -54,6 +81,12 @@ class AuthorController {
     }
   }
 
+  /**
+   * delete specific author
+   * @param {object} req request from express
+   * @param {object} res response from express
+   * @return {object} message with success or error after delete
+   */
   static async destroy(req, res) {
     try {
       const { id } = req.params;
@@ -69,6 +102,12 @@ class AuthorController {
     }
   }
 
+  /**
+   * restore destroyed author
+   * @param {object} req request from express
+   * @param {object} res response from express
+   * @return {object} message with success or error after restore
+   */
   static async restore(req, res) {
     try {
       const { id } = req.params;
@@ -84,6 +123,12 @@ class AuthorController {
     }
   }
 
+  /**
+   * get books from specific author
+   * @param {object} req request from express
+   * @param {object} res response from express
+   * @return {array} list of books
+   */
   static async getBooks(req, res) {
     try {
       const { id } = req.params;
