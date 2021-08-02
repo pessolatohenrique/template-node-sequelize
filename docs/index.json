@@ -1,0 +1,2584 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/auth/middlewares.js",
+    "content": "const passport = require(\"passport\");\nconst tokenObject = require(\"../auth/tokens\");\nconst User = require(\"../models\").User;\n\nmodule.exports = {\n  local: (req, res, next) => {\n    passport.authenticate(\"local\", { session: false }, (error, user, info) => {\n      if (error) {\n        return res.status(401).json(error);\n      }\n      req.user = user;\n      return next();\n    })(req, res, next);\n  },\n  refresh: async (req, res, next) => {\n    try {\n      const { refreshToken } = req.body;\n      const id = await tokenObject.refresh.search(refreshToken);\n\n      if (!id) {\n        return res.status(401).json({ message: \"Refresh token expired\" });\n      }\n\n      await tokenObject.refresh.delete(refreshToken);\n      const user = await User.findOne({\n        where: { id },\n      });\n\n      req.user = user;\n      return next();\n    } catch (error) {\n      console.log(error);\n      return res.status(500).json(error);\n    }\n  },\n  bearer: (req, res, next) => {\n    passport.authenticate(\"bearer\", { session: false }, (error, user, info) => {\n      if (error) {\n        return res.status(401).json(error);\n      }\n\n      req.token = info.token;\n      req.user = user;\n      return next();\n    })(req, res, next);\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/auth/middlewares.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "variable",
+    "name": "passport",
+    "memberof": "src/auth/middlewares.js",
+    "static": true,
+    "longname": "src/auth/middlewares.js~passport",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/middlewares.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "variable",
+    "name": "tokenObject",
+    "memberof": "src/auth/middlewares.js",
+    "static": true,
+    "longname": "src/auth/middlewares.js~tokenObject",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/middlewares.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "variable",
+    "name": "User",
+    "memberof": "src/auth/middlewares.js",
+    "static": true,
+    "longname": "src/auth/middlewares.js~User",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/middlewares.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/auth/strategies.js",
+    "content": "const passport = require(\"passport\");\nconst User = require(\"../models\").User;\nconst LocalStrategy = require(\"passport-local\").Strategy;\nconst BearerStrategy = require(\"passport-http-bearer\").Strategy;\nconst bcrypt = require(\"bcrypt\");\nconst jwt = require(\"jsonwebtoken\");\n\npassport.use(\n  new LocalStrategy(async function (username, password, done) {\n    const user = await User.findOne({\n      where: { username },\n    });\n\n    if (!user) {\n      done(\"This user doesnt exists\", null);\n    }\n\n    const verifyPassword = await bcrypt.compare(password, user.password);\n\n    if (!verifyPassword) {\n      done(\"Invalid username or password\", null);\n    }\n\n    return done(null, user);\n  })\n);\n\npassport.use(\n  new BearerStrategy(async function (token, done) {\n    try {\n      const id = jwt.verify(token, process.env.JWT_KEY);\n      const user = await User.findOne({\n        where: { id },\n      });\n\n      return done(null, user);\n    } catch (error) {\n      console.log(\"ERROR\", error);\n      done(error, null);\n    }\n  })\n);\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/auth/strategies.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "variable",
+    "name": "passport",
+    "memberof": "src/auth/strategies.js",
+    "static": true,
+    "longname": "src/auth/strategies.js~passport",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/strategies.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "User",
+    "memberof": "src/auth/strategies.js",
+    "static": true,
+    "longname": "src/auth/strategies.js~User",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/strategies.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "LocalStrategy",
+    "memberof": "src/auth/strategies.js",
+    "static": true,
+    "longname": "src/auth/strategies.js~LocalStrategy",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/strategies.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "BearerStrategy",
+    "memberof": "src/auth/strategies.js",
+    "static": true,
+    "longname": "src/auth/strategies.js~BearerStrategy",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/strategies.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 57,
+    "kind": "variable",
+    "name": "bcrypt",
+    "memberof": "src/auth/strategies.js",
+    "static": true,
+    "longname": "src/auth/strategies.js~bcrypt",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/strategies.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "variable",
+    "name": "jwt",
+    "memberof": "src/auth/strategies.js",
+    "static": true,
+    "longname": "src/auth/strategies.js~jwt",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/strategies.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "file",
+    "name": "src/auth/tokens.js",
+    "content": "const jwt = require(\"jsonwebtoken\");\nconst crypto = require(\"crypto\");\nconst moment = require(\"moment\");\nconst allowList = require(\"../redis/allowlist-refresh-token\");\nconst ACCESS_EXPIRES_IN = \"15m\";\nconst REFRESH_EXPIRES_IN = \"5d\";\n\nmodule.exports = {\n  access: {\n    create(id) {\n      const payload = { id };\n      return jwt.sign(payload, process.env.JWT_KEY, {\n        expiresIn: ACCESS_EXPIRES_IN,\n      });\n    },\n  },\n  refresh: {\n    async create(id) {\n      const token = crypto.randomBytes(24).toString(\"hex\");\n      const expires_at = moment().add(\"5\", \"d\").unix();\n      await allowList.insert(token, id, expires_at);\n      return token;\n    },\n    async search(refreshToken) {\n      const id = await allowList.search(refreshToken);\n      return id;\n    },\n    async delete(refreshToken) {\n      await allowList.delete(refreshToken);\n    },\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/auth/tokens.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 60,
+    "kind": "variable",
+    "name": "jwt",
+    "memberof": "src/auth/tokens.js",
+    "static": true,
+    "longname": "src/auth/tokens.js~jwt",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/tokens.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 61,
+    "kind": "variable",
+    "name": "crypto",
+    "memberof": "src/auth/tokens.js",
+    "static": true,
+    "longname": "src/auth/tokens.js~crypto",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/tokens.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "variable",
+    "name": "moment",
+    "memberof": "src/auth/tokens.js",
+    "static": true,
+    "longname": "src/auth/tokens.js~moment",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/tokens.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 63,
+    "kind": "variable",
+    "name": "allowList",
+    "memberof": "src/auth/tokens.js",
+    "static": true,
+    "longname": "src/auth/tokens.js~allowList",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/tokens.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 64,
+    "kind": "variable",
+    "name": "ACCESS_EXPIRES_IN",
+    "memberof": "src/auth/tokens.js",
+    "static": true,
+    "longname": "src/auth/tokens.js~ACCESS_EXPIRES_IN",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/tokens.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "variable",
+    "name": "REFRESH_EXPIRES_IN",
+    "memberof": "src/auth/tokens.js",
+    "static": true,
+    "longname": "src/auth/tokens.js~REFRESH_EXPIRES_IN",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/auth/tokens.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 66,
+    "kind": "file",
+    "name": "src/config/database.js",
+    "content": "require(\"dotenv\").config(); // this line is important!\n\nmodule.exports = {\n  development: {\n    username: process.env.DB_USER,\n    password: process.env.DB_PASS,\n    database: process.env.DB_NAME,\n    host: process.env.DB_HOST,\n    dialect: \"mysql\",\n  },\n  test: {\n    username: process.env.CI_DB_USERNAME,\n    password: process.env.CI_DB_PASSWORD,\n    database: process.env.CI_DB_NAME,\n    host: \"127.0.0.1\",\n    dialect: \"mysql\",\n  },\n  production: {\n    username: process.env.PROD_DB_USERNAME,\n    password: process.env.PROD_DB_PASSWORD,\n    database: process.env.PROD_DB_NAME,\n    host: process.env.PROD_DB_HOSTNAME,\n    dialect: \"mysql\",\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/config/database.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/controllers/AuthorController.js",
+    "content": "const model = require(\"../models\").Author;\n\n/**\n * Represents Controller to Author Requests\n */\nclass AuthorController {\n  /**\n   * list all authors\n   * @param {object} req request from express\n   * @param {object} res response from express\n   * @return {array} result list of authors\n   */\n  static async index(req, res) {\n    try {\n      const result = await model.findAll();\n      return res.status(200).json(result);\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n\n  /**\n   * show specific author and respective books\n   * @param {object} req request from express\n   * @param {object} res response from express\n   * @result {object} response for specific author\n   */\n  static async show(req, res) {\n    try {\n      const { id } = req.params;\n      const result = await model.findOne({ where: { id } });\n      const books = await result.getBooks();\n\n      const response = {\n        result,\n        books: [...books],\n      };\n\n      return res.status(200).json(response);\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n\n  /**\n   * insert author into the database\n   * @param {object} req request from express\n   * @param {object} res response from express\n   * @return {object} result with inserted author\n   */\n  static async store(req, res) {\n    try {\n      const result = await model.create(req.body);\n      return res.status(200).json(result);\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n\n  /**\n   * update specific user\n   * @param {object} req request from express\n   * @param {object} res response from express\n   * @return {object} result with updated author\n   */\n  static async update(req, res) {\n    try {\n      const { id } = req.params;\n      const updated = await model.update(req.body, {\n        where: { id },\n      });\n\n      if (updated) {\n        const result = await model.findOne({ where: { id } });\n        return res.status(200).json(result);\n      }\n\n      return res.status(200).json({ message: `author ${id} not found` });\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n\n  /**\n   * delete specific author\n   * @param {object} req request from express\n   * @param {object} res response from express\n   * @return {object} message with success or error after delete\n   */\n  static async destroy(req, res) {\n    try {\n      const { id } = req.params;\n      const deleted = await model.destroy({ where: { id } });\n\n      if (deleted) {\n        return res.status(200).json({ message: `author ${id} was deleted` });\n      }\n\n      return res.status(200).json({ message: `author ${id} not found` });\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n\n  /**\n   * restore destroyed author\n   * @param {object} req request from express\n   * @param {object} res response from express\n   * @return {object} message with success or error after restore\n   */\n  static async restore(req, res) {\n    try {\n      const { id } = req.params;\n      const restored = await model.restore({ where: { id } });\n\n      if (restored) {\n        return res.status(200).json({ message: `author ${id} was restored` });\n      }\n\n      return res.status(200).json({ message: `author ${id} not found` });\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n\n  /**\n   * get books from specific author\n   * @param {object} req request from express\n   * @param {object} res response from express\n   * @return {array} list of books\n   */\n  static async getBooks(req, res) {\n    try {\n      const { id } = req.params;\n      const author = await model.findOne({ where: { id } });\n      const books = await author.getBooks();\n      return res.status(200).json(books);\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n}\n\nmodule.exports = AuthorController;\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/controllers/AuthorController.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "variable",
+    "name": "model",
+    "memberof": "src/controllers/AuthorController.js",
+    "static": true,
+    "longname": "src/controllers/AuthorController.js~model",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/controllers/AuthorController.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "class",
+    "name": "AuthorController",
+    "memberof": "src/controllers/AuthorController.js",
+    "static": true,
+    "longname": "src/controllers/AuthorController.js~AuthorController",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/controllers/AuthorController.js",
+    "importStyle": null,
+    "description": "Represents Controller to Author Requests",
+    "lineNumber": 6,
+    "interface": false
+  },
+  {
+    "__docId__": 70,
+    "kind": "method",
+    "name": "index",
+    "memberof": "src/controllers/AuthorController.js~AuthorController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/AuthorController.js~AuthorController.index",
+    "access": "public",
+    "description": "list all authors",
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": "request from express"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "response from express"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "array"
+      ],
+      "spread": false,
+      "description": "result list of authors"
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "method",
+    "name": "show",
+    "memberof": "src/controllers/AuthorController.js~AuthorController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/AuthorController.js~AuthorController.show",
+    "access": "public",
+    "description": "show specific author and respective books",
+    "lineNumber": 28,
+    "unknown": [
+      {
+        "tagName": "@result",
+        "tagValue": "{object} response for specific author"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": "request from express"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "response from express"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "method",
+    "name": "store",
+    "memberof": "src/controllers/AuthorController.js~AuthorController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/AuthorController.js~AuthorController.store",
+    "access": "public",
+    "description": "insert author into the database",
+    "lineNumber": 51,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": "request from express"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "response from express"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "object"
+      ],
+      "spread": false,
+      "description": "result with inserted author"
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "method",
+    "name": "update",
+    "memberof": "src/controllers/AuthorController.js~AuthorController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/AuthorController.js~AuthorController.update",
+    "access": "public",
+    "description": "update specific user",
+    "lineNumber": 66,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": "request from express"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "response from express"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "object"
+      ],
+      "spread": false,
+      "description": "result with updated author"
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "method",
+    "name": "destroy",
+    "memberof": "src/controllers/AuthorController.js~AuthorController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/AuthorController.js~AuthorController.destroy",
+    "access": "public",
+    "description": "delete specific author",
+    "lineNumber": 90,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": "request from express"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "response from express"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "object"
+      ],
+      "spread": false,
+      "description": "message with success or error after delete"
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "method",
+    "name": "restore",
+    "memberof": "src/controllers/AuthorController.js~AuthorController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/AuthorController.js~AuthorController.restore",
+    "access": "public",
+    "description": "restore destroyed author",
+    "lineNumber": 111,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": "request from express"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "response from express"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "object"
+      ],
+      "spread": false,
+      "description": "message with success or error after restore"
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "method",
+    "name": "getBooks",
+    "memberof": "src/controllers/AuthorController.js~AuthorController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/AuthorController.js~AuthorController.getBooks",
+    "access": "public",
+    "description": "get books from specific author",
+    "lineNumber": 132,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": "request from express"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "response from express"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "array"
+      ],
+      "spread": false,
+      "description": "list of books"
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "src/controllers/BookController.js",
+    "content": "const sequelize = require(\"sequelize\");\nconst model = require(\"../models\").Book;\nconst { Op } = require(\"sequelize\");\n\nclass BookController {\n  static async index(req, res) {\n    try {\n      const { search } = req.query;\n      const result = await model.findAll({\n        where: {\n          name: {\n            [Op.like]: \"%\" + search + \"%\",\n          },\n        },\n      });\n      return res.status(200).json(result);\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n\n  static async show(req, res) {\n    try {\n      const { id } = req.params;\n      const result = await model.findOne({\n        where: { id },\n        include: [\"Author\"],\n      });\n\n      return res.status(200).json(result);\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n\n  static async sumPagesByAuthor(req, res) {\n    try {\n      const result = await model.findAll({\n        attributes: [\n          \"Author.name\",\n          [sequelize.fn(\"SUM\", sequelize.col(\"pages\")), \"Pages\"],\n        ],\n        include: [\"Author\"],\n        group: [\"Author.name\"],\n      });\n\n      return res.status(200).json(result);\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n\n  static async countByAuthor(req, res) {\n    try {\n      const result = await model.findAll({\n        attributes: [\n          \"Author.name\",\n          [sequelize.fn(\"COUNT\", sequelize.col(\"Author.id\")), \"AuthorCount\"],\n        ],\n        include: [\"Author\"],\n        group: [\"Author.name\"],\n        raw: true,\n      });\n\n      return res.status(200).json(result);\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n}\n\nmodule.exports = BookController;\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/controllers/BookController.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "variable",
+    "name": "sequelize",
+    "memberof": "src/controllers/BookController.js",
+    "static": true,
+    "longname": "src/controllers/BookController.js~sequelize",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/controllers/BookController.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 79,
+    "kind": "variable",
+    "name": "model",
+    "memberof": "src/controllers/BookController.js",
+    "static": true,
+    "longname": "src/controllers/BookController.js~model",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/controllers/BookController.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 80,
+    "kind": "variable",
+    "name": "Op",
+    "memberof": "src/controllers/BookController.js",
+    "static": true,
+    "longname": "src/controllers/BookController.js~Op",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/controllers/BookController.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 81,
+    "kind": "class",
+    "name": "BookController",
+    "memberof": "src/controllers/BookController.js",
+    "static": true,
+    "longname": "src/controllers/BookController.js~BookController",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/controllers/BookController.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "interface": false,
+    "ignore": true
+  },
+  {
+    "__docId__": 82,
+    "kind": "method",
+    "name": "index",
+    "memberof": "src/controllers/BookController.js~BookController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/BookController.js~BookController.index",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 83,
+    "kind": "method",
+    "name": "show",
+    "memberof": "src/controllers/BookController.js~BookController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/BookController.js~BookController.show",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 84,
+    "kind": "method",
+    "name": "sumPagesByAuthor",
+    "memberof": "src/controllers/BookController.js~BookController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/BookController.js~BookController.sumPagesByAuthor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 36,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 85,
+    "kind": "method",
+    "name": "countByAuthor",
+    "memberof": "src/controllers/BookController.js~BookController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/BookController.js~BookController.countByAuthor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 53,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 86,
+    "kind": "file",
+    "name": "src/controllers/UserController.js",
+    "content": "const model = require(\"../models\").User;\nconst tokens = require(\"../auth/tokens\");\n\n/**\n * Represents Controller to User Requests\n */\nclass UserController {\n  /**\n   * creates token and refresh token\n   * @param {object} req request from express\n   * @param {object} res response from express\n   * @return {object} response with access token and refresh token\n   */\n  static async login(req, res) {\n    try {\n      const { user } = req;\n      const token = tokens.access.create(user.id);\n      const refreshToken = await tokens.refresh.create(user.id);\n      res.set({ Authorization: token });\n      return res.status(200).json({ accessToken: token, refreshToken });\n    } catch (error) {\n      return res.status(500).json(error);\n    }\n  }\n}\n\nmodule.exports = UserController;\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/controllers/UserController.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 87,
+    "kind": "variable",
+    "name": "model",
+    "memberof": "src/controllers/UserController.js",
+    "static": true,
+    "longname": "src/controllers/UserController.js~model",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/controllers/UserController.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 88,
+    "kind": "variable",
+    "name": "tokens",
+    "memberof": "src/controllers/UserController.js",
+    "static": true,
+    "longname": "src/controllers/UserController.js~tokens",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/controllers/UserController.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 89,
+    "kind": "class",
+    "name": "UserController",
+    "memberof": "src/controllers/UserController.js",
+    "static": true,
+    "longname": "src/controllers/UserController.js~UserController",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/controllers/UserController.js",
+    "importStyle": null,
+    "description": "Represents Controller to User Requests",
+    "lineNumber": 7,
+    "interface": false
+  },
+  {
+    "__docId__": 90,
+    "kind": "method",
+    "name": "login",
+    "memberof": "src/controllers/UserController.js~UserController",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/UserController.js~UserController.login",
+    "access": "public",
+    "description": "creates token and refresh token",
+    "lineNumber": 14,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": "request from express"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "response from express"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "object"
+      ],
+      "spread": false,
+      "description": "response with access token and refresh token"
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "const express = require(\"express\");\nconst routes = require(\"./routes\");\n// necessary to load strategies\nconst { strategies } = require(\"./auth/strategies\");\n\nconst app = express();\nroutes(app);\napp.listen(3000, () => console.log(\"Server Started\"));\n\nmodule.exports = app;\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 92,
+    "kind": "variable",
+    "name": "express",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~express",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 93,
+    "kind": "variable",
+    "name": "routes",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~routes",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 94,
+    "kind": "variable",
+    "name": "strategies",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~strategies",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 95,
+    "kind": "variable",
+    "name": "app",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~app",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 96,
+    "kind": "file",
+    "name": "src/migrations/20210210220624-create-author.js",
+    "content": "\"use strict\";\nmodule.exports = {\n  up: async (queryInterface, Sequelize) => {\n    await queryInterface.createTable(\"authors\", {\n      id: {\n        allowNull: false,\n        autoIncrement: true,\n        primaryKey: true,\n        type: Sequelize.INTEGER,\n      },\n      name: {\n        allowNull: false,\n        unique: true,\n        type: Sequelize.STRING,\n      },\n      createdAt: {\n        allowNull: false,\n        type: Sequelize.DATE,\n      },\n      updatedAt: {\n        allowNull: false,\n        type: Sequelize.DATE,\n      },\n    });\n  },\n  down: async (queryInterface, Sequelize) => {\n    await queryInterface.dropTable(\"authors\");\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/migrations/20210210220624-create-author.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 97,
+    "kind": "file",
+    "name": "src/migrations/20210212221922-authors_add_field_deleted_at.js",
+    "content": "\"use strict\";\n\nmodule.exports = {\n  up: async (queryInterface, Sequelize) => {\n    /**\n     * Add altering commands here.\n     *\n     * Example:\n     * await queryInterface.createTable('users', { id: Sequelize.INTEGER });\n     */\n    await queryInterface.addColumn(\"authors\", \"deletedAt\", {\n      type: Sequelize.DATE,\n      allowNull: true,\n    });\n  },\n\n  down: async (queryInterface, Sequelize) => {\n    await queryInterface.removeColumn(\"authors\", \"deletedAt\");\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/migrations/20210212221922-authors_add_field_deleted_at.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 98,
+    "kind": "file",
+    "name": "src/migrations/20210215215942-create-book.js",
+    "content": "\"use strict\";\nmodule.exports = {\n  up: async (queryInterface, Sequelize) => {\n    await queryInterface.createTable(\"books\", {\n      id: {\n        allowNull: false,\n        autoIncrement: true,\n        primaryKey: true,\n        type: Sequelize.INTEGER,\n      },\n      name: {\n        allowNull: false,\n        unique: true,\n        type: Sequelize.STRING,\n      },\n      pages: {\n        allowNull: false,\n        unique: true,\n        type: Sequelize.INTEGER,\n      },\n      authorId: {\n        allowNull: false,\n        type: Sequelize.INTEGER,\n        references: {\n          model: \"authors\", // Name of the created table\n          key: \"id\",\n          onUpdate: \"CASCADE\",\n          onDelete: \"CASCADE\",\n        },\n      },\n      createdAt: {\n        allowNull: false,\n        type: Sequelize.DATE,\n      },\n      updatedAt: {\n        allowNull: false,\n        type: Sequelize.DATE,\n      },\n    });\n  },\n  down: async (queryInterface, Sequelize) => {\n    await queryInterface.dropTable(\"books\");\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/migrations/20210215215942-create-book.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 99,
+    "kind": "file",
+    "name": "src/migrations/20210518212305-create-user.js",
+    "content": "\"use strict\";\nmodule.exports = {\n  up: async (queryInterface, Sequelize) => {\n    await queryInterface.createTable(\"users\", {\n      id: {\n        allowNull: false,\n        autoIncrement: true,\n        primaryKey: true,\n        type: Sequelize.INTEGER,\n      },\n      username: {\n        type: Sequelize.STRING,\n        allowNull: false,\n        unique: true,\n      },\n      email: {\n        type: Sequelize.STRING,\n        allowNull: false,\n        unique: true,\n      },\n      password: {\n        type: Sequelize.STRING,\n      },\n      createdAt: {\n        allowNull: false,\n        type: Sequelize.DATE,\n      },\n      updatedAt: {\n        allowNull: false,\n        type: Sequelize.DATE,\n      },\n    });\n  },\n  down: async (queryInterface, Sequelize) => {\n    await queryInterface.dropTable(\"users\");\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/migrations/20210518212305-create-user.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 100,
+    "kind": "file",
+    "name": "src/models/author.js",
+    "content": "\"use strict\";\nconst { Model } = require(\"sequelize\");\nmodule.exports = (sequelize, DataTypes) => {\n  class Author extends Model {\n    /**\n     * Helper method for defining associations.\n     * This method is not a part of Sequelize lifecycle.\n     * The `models/index` file will call this method automatically.\n     */\n    static associate(models) {\n      // define association here\n      Author.hasMany(models.Book, {\n        foreignKey: \"authorId\",\n      });\n    }\n  }\n  Author.init(\n    {\n      name: {\n        type: DataTypes.STRING,\n        unique: { msg: \"author name should be unique\" },\n        allowNull: false,\n        validate: {\n          notEmpty: true,\n          len: [2],\n        },\n      },\n    },\n    {\n      sequelize,\n      paranoid: true,\n      modelName: \"Author\",\n      tableName: \"authors\",\n    }\n  );\n  return Author;\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/models/author.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 101,
+    "kind": "variable",
+    "name": "Model",
+    "memberof": "src/models/author.js",
+    "static": true,
+    "longname": "src/models/author.js~Model",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/author.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 102,
+    "kind": "file",
+    "name": "src/models/book.js",
+    "content": "\"use strict\";\nconst { Model } = require(\"sequelize\");\nmodule.exports = (sequelize, DataTypes) => {\n  class Book extends Model {\n    /**\n     * Helper method for defining associations.\n     * This method is not a part of Sequelize lifecycle.\n     * The `models/index` file will call this method automatically.\n     */\n    static associate(models) {\n      // define association here\n      Book.belongsTo(models.Author, {\n        foreignKey: \"authorId\",\n      });\n    }\n  }\n  Book.init(\n    {\n      name: DataTypes.STRING,\n      pages: DataTypes.INTEGER,\n      authorId: DataTypes.INTEGER,\n    },\n    {\n      sequelize,\n      modelName: \"Book\",\n      tableName: \"books\",\n    }\n  );\n  return Book;\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/models/book.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 103,
+    "kind": "variable",
+    "name": "Model",
+    "memberof": "src/models/book.js",
+    "static": true,
+    "longname": "src/models/book.js~Model",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/book.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 104,
+    "kind": "file",
+    "name": "src/models/index.js",
+    "content": "'use strict';\n\nconst fs = require('fs');\nconst path = require('path');\nconst Sequelize = require('sequelize');\nconst basename = path.basename(__filename);\nconst env = process.env.NODE_ENV || 'development';\nconst config = require(__dirname + '/../config/database.js')[env];\nconst db = {};\n\nlet sequelize;\nif (config.use_env_variable) {\n  sequelize = new Sequelize(process.env[config.use_env_variable], config);\n} else {\n  sequelize = new Sequelize(config.database, config.username, config.password, config);\n}\n\nfs\n  .readdirSync(__dirname)\n  .filter(file => {\n    return (file.indexOf('.') !== 0) && (file !== basename) && (file.slice(-3) === '.js');\n  })\n  .forEach(file => {\n    const model = require(path.join(__dirname, file))(sequelize, Sequelize.DataTypes);\n    db[model.name] = model;\n  });\n\nObject.keys(db).forEach(modelName => {\n  if (db[modelName].associate) {\n    db[modelName].associate(db);\n  }\n});\n\ndb.sequelize = sequelize;\ndb.Sequelize = Sequelize;\n\nmodule.exports = db;\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/models/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 105,
+    "kind": "variable",
+    "name": "fs",
+    "memberof": "src/models/index.js",
+    "static": true,
+    "longname": "src/models/index.js~fs",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 106,
+    "kind": "variable",
+    "name": "path",
+    "memberof": "src/models/index.js",
+    "static": true,
+    "longname": "src/models/index.js~path",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 107,
+    "kind": "variable",
+    "name": "Sequelize",
+    "memberof": "src/models/index.js",
+    "static": true,
+    "longname": "src/models/index.js~Sequelize",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 108,
+    "kind": "variable",
+    "name": "basename",
+    "memberof": "src/models/index.js",
+    "static": true,
+    "longname": "src/models/index.js~basename",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 109,
+    "kind": "variable",
+    "name": "env",
+    "memberof": "src/models/index.js",
+    "static": true,
+    "longname": "src/models/index.js~env",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 110,
+    "kind": "variable",
+    "name": "config",
+    "memberof": "src/models/index.js",
+    "static": true,
+    "longname": "src/models/index.js~config",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 111,
+    "kind": "variable",
+    "name": "db",
+    "memberof": "src/models/index.js",
+    "static": true,
+    "longname": "src/models/index.js~db",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 112,
+    "kind": "file",
+    "name": "src/models/user.js",
+    "content": "\"use strict\";\nconst { Model } = require(\"sequelize\");\nmodule.exports = (sequelize, DataTypes) => {\n  class User extends Model {\n    /**\n     * Helper method for defining associations.\n     * This method is not a part of Sequelize lifecycle.\n     * The `models/index` file will call this method automatically.\n     */\n    static associate(models) {\n      // define association here\n    }\n  }\n  User.init(\n    {\n      username: DataTypes.STRING,\n      email: DataTypes.STRING,\n      password: DataTypes.STRING,\n    },\n    {\n      sequelize,\n      modelName: \"User\",\n      tableName: \"users\",\n    }\n  );\n  return User;\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/models/user.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 113,
+    "kind": "variable",
+    "name": "Model",
+    "memberof": "src/models/user.js",
+    "static": true,
+    "longname": "src/models/user.js~Model",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/models/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 114,
+    "kind": "file",
+    "name": "src/redis/allowlist-refresh-token.js",
+    "content": "const redis = require(\"redis\");\nconst manipulateList = require(\"./manipulate-list\");\nconst allowList = redis.createClient({ prefix: \"allowlist-refresh-token:\" });\nmodule.exports = manipulateList(allowList);\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/redis/allowlist-refresh-token.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 115,
+    "kind": "variable",
+    "name": "redis",
+    "memberof": "src/redis/allowlist-refresh-token.js",
+    "static": true,
+    "longname": "src/redis/allowlist-refresh-token.js~redis",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/redis/allowlist-refresh-token.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 116,
+    "kind": "variable",
+    "name": "manipulateList",
+    "memberof": "src/redis/allowlist-refresh-token.js",
+    "static": true,
+    "longname": "src/redis/allowlist-refresh-token.js~manipulateList",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/redis/allowlist-refresh-token.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 117,
+    "kind": "variable",
+    "name": "allowList",
+    "memberof": "src/redis/allowlist-refresh-token.js",
+    "static": true,
+    "longname": "src/redis/allowlist-refresh-token.js~allowList",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/redis/allowlist-refresh-token.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 118,
+    "kind": "file",
+    "name": "src/redis/manipulate-list.js",
+    "content": "const { promisify } = require(\"util\");\n\nmodule.exports = (list) => {\n  const setAsync = promisify(list.set).bind(list);\n  const getAsync = promisify(list.get).bind(list);\n  const delAsync = promisify(list.del).bind(list);\n\n  return {\n    async insert(key, value, expires) {\n      const inserted = await setAsync(key, value);\n      list.expireat(key, expires);\n    },\n    async search(key) {\n      const result = await getAsync(key);\n      return result;\n    },\n    async delete(key) {\n      await delAsync(key);\n    },\n  };\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/redis/manipulate-list.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 119,
+    "kind": "variable",
+    "name": "promisify",
+    "memberof": "src/redis/manipulate-list.js",
+    "static": true,
+    "longname": "src/redis/manipulate-list.js~promisify",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/redis/manipulate-list.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 120,
+    "kind": "file",
+    "name": "src/routes/author.js",
+    "content": "const { Router } = require(\"express\");\nconst AuthorController = require(\"../controllers/AuthorController\");\n\nconst router = Router();\n\nrouter.get(\"/\", (req, res) => res.status(200).send({ message: \"initial\" }));\nrouter.get(\"/author\", AuthorController.index);\nrouter.get(\"/author/:id\", AuthorController.show);\nrouter.get(\"/author/:id/restore\", AuthorController.restore);\nrouter.get(\"/author/:id/books\", AuthorController.getBooks);\nrouter.post(\"/author\", AuthorController.store);\nrouter.put(\"/author/:id\", AuthorController.update);\nrouter.delete(\"/author/:id\", AuthorController.destroy);\n\nmodule.exports = router;\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/routes/author.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 121,
+    "kind": "variable",
+    "name": "Router",
+    "memberof": "src/routes/author.js",
+    "static": true,
+    "longname": "src/routes/author.js~Router",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/author.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 122,
+    "kind": "variable",
+    "name": "AuthorController",
+    "memberof": "src/routes/author.js",
+    "static": true,
+    "longname": "src/routes/author.js~AuthorController",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/author.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 123,
+    "kind": "variable",
+    "name": "router",
+    "memberof": "src/routes/author.js",
+    "static": true,
+    "longname": "src/routes/author.js~router",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/author.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 124,
+    "kind": "file",
+    "name": "src/routes/book.js",
+    "content": "const { Router } = require(\"express\");\nconst BookController = require(\"../controllers/BookController\");\nconst middlewares = require(\"../auth/middlewares\");\n\nconst router = Router();\n\n// example with token\nrouter.route(\"/book\").get(middlewares.bearer, BookController.index);\n\n// examples without token\nrouter.get(\"/book/sumPagesByAuthor\", BookController.sumPagesByAuthor);\nrouter.get(\"/book/countByAuthor\", BookController.countByAuthor);\nrouter.get(\"/book/:id\", BookController.show);\n\nmodule.exports = router;\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/routes/book.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 125,
+    "kind": "variable",
+    "name": "Router",
+    "memberof": "src/routes/book.js",
+    "static": true,
+    "longname": "src/routes/book.js~Router",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/book.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 126,
+    "kind": "variable",
+    "name": "BookController",
+    "memberof": "src/routes/book.js",
+    "static": true,
+    "longname": "src/routes/book.js~BookController",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/book.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 127,
+    "kind": "variable",
+    "name": "middlewares",
+    "memberof": "src/routes/book.js",
+    "static": true,
+    "longname": "src/routes/book.js~middlewares",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/book.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 128,
+    "kind": "variable",
+    "name": "router",
+    "memberof": "src/routes/book.js",
+    "static": true,
+    "longname": "src/routes/book.js~router",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/book.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 129,
+    "kind": "file",
+    "name": "src/routes/index.js",
+    "content": "const bodyParser = require(\"body-parser\");\nconst authorRoutes = require(\"./author\");\nconst bookRoutes = require(\"./book\");\nconst userRoutes = require(\"./user\");\n\nmodule.exports = (app) => {\n  app.use(bodyParser.json());\n  app.use(userRoutes);\n  app.use(authorRoutes);\n  app.use(bookRoutes);\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/routes/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 130,
+    "kind": "variable",
+    "name": "bodyParser",
+    "memberof": "src/routes/index.js",
+    "static": true,
+    "longname": "src/routes/index.js~bodyParser",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 131,
+    "kind": "variable",
+    "name": "authorRoutes",
+    "memberof": "src/routes/index.js",
+    "static": true,
+    "longname": "src/routes/index.js~authorRoutes",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 132,
+    "kind": "variable",
+    "name": "bookRoutes",
+    "memberof": "src/routes/index.js",
+    "static": true,
+    "longname": "src/routes/index.js~bookRoutes",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 133,
+    "kind": "variable",
+    "name": "userRoutes",
+    "memberof": "src/routes/index.js",
+    "static": true,
+    "longname": "src/routes/index.js~userRoutes",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 134,
+    "kind": "file",
+    "name": "src/routes/user.js",
+    "content": "const { Router } = require(\"express\");\nconst passport = require(\"passport\");\nconst UserController = require(\"../controllers/UserController\");\nconst middlewares = require(\"../auth/middlewares\");\n\nconst router = Router();\n\nrouter.route(\"/login\").post(middlewares.local, UserController.login);\nrouter.route(\"/refresh_token\").post(middlewares.refresh, UserController.login);\n\nmodule.exports = router;\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/routes/user.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 135,
+    "kind": "variable",
+    "name": "Router",
+    "memberof": "src/routes/user.js",
+    "static": true,
+    "longname": "src/routes/user.js~Router",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 136,
+    "kind": "variable",
+    "name": "passport",
+    "memberof": "src/routes/user.js",
+    "static": true,
+    "longname": "src/routes/user.js~passport",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 137,
+    "kind": "variable",
+    "name": "UserController",
+    "memberof": "src/routes/user.js",
+    "static": true,
+    "longname": "src/routes/user.js~UserController",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 138,
+    "kind": "variable",
+    "name": "middlewares",
+    "memberof": "src/routes/user.js",
+    "static": true,
+    "longname": "src/routes/user.js~middlewares",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 139,
+    "kind": "variable",
+    "name": "router",
+    "memberof": "src/routes/user.js",
+    "static": true,
+    "longname": "src/routes/user.js~router",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/routes/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 140,
+    "kind": "file",
+    "name": "src/seeders/20210210220936-add-authors.js",
+    "content": "\"use strict\";\n\nmodule.exports = {\n  up: async (queryInterface, Sequelize) => {\n    await queryInterface.bulkInsert(\n      \"authors\",\n      [\n        {\n          name: \"Agatha Christie\",\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n        {\n          name: \"Suzanne Collins\",\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n        {\n          name: \"J.K Rowling\",\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n        {\n          name: \"George Orwell\",\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n        {\n          name: \"Edgar Allan Poe\",\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n      ],\n      {}\n    );\n  },\n\n  down: async (queryInterface, Sequelize) => {\n    await queryInterface.bulkDelete(\"authors\", null, {});\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/seeders/20210210220936-add-authors.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 141,
+    "kind": "file",
+    "name": "src/seeders/20210215220455-create-books.js",
+    "content": "\"use strict\";\n\nmodule.exports = {\n  up: async (queryInterface, Sequelize) => {\n    await queryInterface.bulkInsert(\n      \"books\",\n      [\n        {\n          name: \"Morte no Nilo\",\n          pages: 210,\n          authorId: 1,\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n        {\n          name: \"Os trabalhos de Hércules\",\n          pages: 288,\n          authorId: 1,\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n        {\n          name: \"Jogos Vorazes\",\n          pages: 321,\n          authorId: 2,\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n        {\n          name: \"Em Chamas\",\n          pages: 335,\n          authorId: 2,\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n        {\n          name: \"A Esperança\",\n          pages: 390,\n          authorId: 2,\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n      ],\n      {}\n    );\n  },\n\n  down: async (queryInterface, Sequelize) => {\n    await queryInterface.bulkDelete(\"books\", null, {});\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/seeders/20210215220455-create-books.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 142,
+    "kind": "file",
+    "name": "src/seeders/20210518212614-create-users.js",
+    "content": "\"use strict\";\nconst bcrypt = require(\"bcrypt\");\nconst ROUNDS_BCRYPT = 12;\n\nmodule.exports = {\n  up: async (queryInterface, Sequelize) => {\n    await queryInterface.bulkInsert(\n      \"users\",\n      [\n        {\n          username: \"pessolatohenrique\",\n          email: \"pessolatohenrique@gmail.com\",\n          password: await bcrypt.hash(\"admin@123\", ROUNDS_BCRYPT),\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n        {\n          username: \"exemplousuario\",\n          email: \"exemplousuario@gmail.com\",\n          password: await bcrypt.hash(\"admin@123\", ROUNDS_BCRYPT),\n          createdAt: new Date(),\n          updatedAt: new Date(),\n        },\n      ],\n      {}\n    );\n  },\n\n  down: async (queryInterface, Sequelize) => {\n    await queryInterface.bulkDelete(\"users\", null, {});\n  },\n};\n",
+    "static": true,
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/src/seeders/20210518212614-create-users.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 143,
+    "kind": "variable",
+    "name": "bcrypt",
+    "memberof": "src/seeders/20210518212614-create-users.js",
+    "static": true,
+    "longname": "src/seeders/20210518212614-create-users.js~bcrypt",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/seeders/20210518212614-create-users.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 144,
+    "kind": "variable",
+    "name": "ROUNDS_BCRYPT",
+    "memberof": "src/seeders/20210518212614-create-users.js",
+    "static": true,
+    "longname": "src/seeders/20210518212614-create-users.js~ROUNDS_BCRYPT",
+    "access": "public",
+    "export": false,
+    "importPath": "template-node-sequelize/src/seeders/20210518212614-create-users.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "number"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "kind": "index",
+    "content": "# Template para Node (Sequelize)\n\n### Sobre\n\nO objetivo deste projeto é fornecer um template com recursos comuns à todos os projetos em Node.js e Sequelize (Framework ORM)\n\n### Tecnologias\n\n- Node.js\n- Sequelize (ORM)\n\n### Instalação do projeto\n\nRealizar o clone do projeto\n\n    git clone https://github.com/USER/template-sequelize-node.git\n\nAcesse a pasta do projeto e rode o comando para instalar as dependências npm:\n\n    npm install\n\nCriar arquivo .env e configurar as variáveis de ambiente, semelhantes ao arquivo \".env-example\".\n\nExecute as \"migrations\" disponíveis, por meio do comando:\n\n    npx sequelize-cli db:migrate\n\nExecute os \"seeders\" disponíveis, por meio do comando:\n\n    npx sequelize-cli db:seed:all\n\nE, por fim, rode o projeto:\n\n```\n  npm start\n```\n\n### Comandos importantes\n\nPara utilização do sequelize em linha de comando (CLI), utilizar:\n\n    npx sequelize-cli <comando>\n\nPor exemplo:\n\n    npx sequelize-cli --help\n\nPara verificar os parâmetros permitidos em um comando, utilizar o \"help\". Por exemplo:\n\n    npx sequelize-cli --help db:seed\n\n### Observações\n\nOs endpoints criados podem ser importados por meio do arquivo \"endpoints.json\" em um Software como o Postman (ou semelhante).\n",
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"template-node-sequelize\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Template para Node.js com o framework ORM Sequelize\",\n  \"main\": \"./src/index.js\",\n  \"scripts\": {\n    \"start\": \"nodemon ./src/index.js\",\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/pessolatohenrique/template-node-sequelize.git\"\n  },\n  \"keywords\": [\n    \"template\",\n    \"node\",\n    \"sequelize\"\n  ],\n  \"author\": \"pessolatohenrique\",\n  \"license\": \"ISC\",\n  \"bugs\": {\n    \"url\": \"https://github.com/pessolatohenrique/template-node-sequelize/issues\"\n  },\n  \"homepage\": \"https://github.com/pessolatohenrique/template-node-sequelize#readme\",\n  \"dependencies\": {\n    \"bcrypt\": \"^3.0.0\",\n    \"body-parser\": \"^1.19.0\",\n    \"dotenv\": \"^8.2.0\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"express\": \"^4.17.1\",\n    \"jsonwebtoken\": \"^8.5.1\",\n    \"moment\": \"^2.26.0\",\n    \"mysql2\": \"^2.2.5\",\n    \"passport\": \"^0.4.1\",\n    \"passport-http-bearer\": \"^1.0.1\",\n    \"passport-local\": \"^1.0.0\",\n    \"path\": \"^0.12.7\",\n    \"redis\": \"^3.0.2\",\n    \"sequelize\": \"^6.5.0\",\n    \"sequelize-cli\": \"^6.2.0\"\n  },\n  \"devDependencies\": {\n    \"nodemon\": \"^2.0.7\"\n  }\n}\n",
+    "longname": "/home/pessolatohenrique/Desktop/projects/template-node-sequelize/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

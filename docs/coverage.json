@@ -1,0 +1,177 @@
+{
+  "coverage": "13.88%",
+  "expectCount": 72,
+  "actualCount": 10,
+  "files": {
+    "src/auth/middlewares.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3
+      ]
+    },
+    "src/auth/strategies.js": {
+      "expectCount": 6,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "src/auth/tokens.js": {
+      "expectCount": 6,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "src/controllers/AuthorController.js": {
+      "expectCount": 9,
+      "actualCount": 8,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/controllers/BookController.js": {
+      "expectCount": 8,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        22,
+        36,
+        53
+      ]
+    },
+    "src/controllers/UserController.js": {
+      "expectCount": 4,
+      "actualCount": 2,
+      "undocumentLines": [
+        1,
+        2
+      ]
+    },
+    "src/index.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    "src/models/author.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/models/book.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/models/index.js": {
+      "expectCount": 7,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "src/models/user.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        2
+      ]
+    },
+    "src/redis/allowlist-refresh-token.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3
+      ]
+    },
+    "src/redis/manipulate-list.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/routes/author.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        4
+      ]
+    },
+    "src/routes/book.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    "src/routes/index.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "src/routes/user.js": {
+      "expectCount": 5,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ]
+    },
+    "src/seeders/20210518212614-create-users.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        2,
+        3
+      ]
+    }
+  }
+}
