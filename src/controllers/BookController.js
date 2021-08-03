@@ -1,9 +1,10 @@
 const sequelize = require("sequelize");
 const model = require("../models").Book;
 const { Op } = require("sequelize");
+const { NotFoundError } = require("../utils/Errors");
 
 class BookController {
-  static async index(req, res) {
+  static async index(req, res, next) {
     try {
       const { search } = req.query;
       const result = await model.findAll({
@@ -15,11 +16,11 @@ class BookController {
       });
       return res.status(200).json(result);
     } catch (error) {
-      return res.status(500).json(error);
+      return next(error);
     }
   }
 
-  static async show(req, res) {
+  static async show(req, res, next) {
     try {
       const { id } = req.params;
       const result = await model.findOne({
@@ -27,13 +28,17 @@ class BookController {
         include: ["Author"],
       });
 
+      if (!result) {
+        throw new NotFoundError();
+      }
+
       return res.status(200).json(result);
     } catch (error) {
-      return res.status(500).json(error);
+      return next(error);
     }
   }
 
-  static async sumPagesByAuthor(req, res) {
+  static async sumPagesByAuthor(req, res, next) {
     try {
       const result = await model.findAll({
         attributes: [
@@ -46,11 +51,11 @@ class BookController {
 
       return res.status(200).json(result);
     } catch (error) {
-      return res.status(500).json(error);
+      return next(error);
     }
   }
 
-  static async countByAuthor(req, res) {
+  static async countByAuthor(req, res, next) {
     try {
       const result = await model.findAll({
         attributes: [
@@ -64,7 +69,7 @@ class BookController {
 
       return res.status(200).json(result);
     } catch (error) {
-      return res.status(500).json(error);
+      return next(error);
     }
   }
 }
