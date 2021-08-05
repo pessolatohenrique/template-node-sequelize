@@ -3,6 +3,7 @@ const tokenObject = require("../auth/tokens");
 const accessControl = require("../auth/roles");
 const { convertHttpToRole } = require("../auth/methodsroles");
 const { ForbiddenError } = require("../utils/Errors");
+const { convertRouteToPermission } = require("../utils/Strings");
 const User = require("../models").User;
 
 module.exports = {
@@ -53,9 +54,9 @@ module.exports = {
   rbac: async (req, res, next) => {
     try {
       const user = await req.user;
-      const permissionName = req.route.path.replace("/", "");
+      const permissionName = convertRouteToPermission(req.route.path);
       const ruleName = `${convertHttpToRole(req.method)}Any`;
-      console.log("req method", ruleName);
+      console.log("req method", ruleName, permissionName);
 
       const permission = accessControl.can(user.role)[ruleName](permissionName);
 
