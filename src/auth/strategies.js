@@ -28,9 +28,9 @@ passport.use(
 passport.use(
   new BearerStrategy(async function (token, done) {
     try {
-      const id = jwt.verify(token, process.env.JWT_KEY);
+      const jwtObject = await jwt.verify(token, process.env.JWT_KEY);
       const user = await User.findOne({
-        where: { id },
+        where: { id: jwtObject.id },
       });
 
       return done(null, user);

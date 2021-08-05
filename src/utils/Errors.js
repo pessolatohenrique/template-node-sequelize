@@ -29,4 +29,12 @@ class NotFoundError extends CommonError {
   }
 }
 
-module.exports = { UnauthorizedError, NotFoundError };
+class ForbiddenError extends CommonError {
+  constructor() {
+    super("Forbidden. Verify the user permission");
+    this.name = "ForbiddenError";
+    this.status = 403;
+  }
+}
+
+module.exports = { UnauthorizedError, NotFoundError, ForbiddenError };

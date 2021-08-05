@@ -1,12 +1,13 @@
 const express = require("express");
 const routes = require("./routes");
 // necessary to load strategies
-const { strategies } = require("./auth/strategies");
+require("./auth/strategies");
 
 const app = express();
 routes(app);
 
 app.use((error, req, res, next) => {
+  console.log("error", error);
   if (error.name === "SequelizeValidationError") {
     res.status(400).json(error);
     return next();

@@ -5,7 +5,9 @@ const middlewares = require("../auth/middlewares");
 const router = Router();
 
 // example with token
-router.route("/book").get(middlewares.bearer, BookController.index);
+router
+  .route("/book")
+  .get([middlewares.bearer, middlewares.rbac], BookController.index);
 
 // examples without token
 router.get("/book/sumPagesByAuthor", BookController.sumPagesByAuthor);
