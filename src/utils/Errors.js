@@ -29,6 +29,9 @@ class NotFoundError extends CommonError {
   }
 }
 
+/**
+ * represents forbidden error, configured based on rbac
+ */
 class ForbiddenError extends CommonError {
   constructor() {
     super("Forbidden. Verify the user permission");
@@ -37,4 +40,20 @@ class ForbiddenError extends CommonError {
   }
 }
 
-module.exports = { UnauthorizedError, NotFoundError, ForbiddenError };
+/**
+ * represents invalid key for reset password
+ */
+class InvalidPasswordKey extends CommonError {
+  constructor() {
+    super("Invalid password key");
+    this.name = "InvalidPasswordKey";
+    this.status = 401;
+  }
+}
+
+module.exports = {
+  UnauthorizedError,
+  NotFoundError,
+  ForbiddenError,
+  InvalidPasswordKey,
+};
