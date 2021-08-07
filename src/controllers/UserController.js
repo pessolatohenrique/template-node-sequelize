@@ -1,6 +1,6 @@
 const model = require("../models").User;
 const tokens = require("../auth/tokens");
-const { Email } = require("../utils/Email");
+const { ForgotPasswordEmail } = require("../utils/Email");
 
 /**
  * Represents Controller to User Requests
@@ -24,10 +24,15 @@ class UserController {
     }
   }
 
-  static async testEmail(req, res) {
-    const emailObj = new Email();
-    emailObj.send();
-    return res.status(200).json("alo");
+  static async testEmail(req, res, next) {
+    try {
+      const { email } = req.body;
+      const emailObj = new ForgotPasswordEmail(email);
+      emailObj.send();
+      return res.status(200).json("alo");
+    } catch (error) {
+      return next(error);
+    }
   }
 }
 

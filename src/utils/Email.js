@@ -39,4 +39,17 @@ class Email {
   }
 }
 
-module.exports = { Email };
+class ForgotPasswordEmail extends Email {
+  constructor(email) {
+    super();
+    this.messageInfo = {
+      from: '"Template Sequelize" <foo@example.com>', // sender address
+      to: email, // list of receivers
+      subject: "Recuperação de senha", // Subject line
+      text: "Segue o link para recuperação de senha: *link com token*", // plain text body
+      html: "<p>Segue o link para recuperação de senha: *link com token*</p>", // html body
+    };
+  }
+}
+
+module.exports = { ForgotPasswordEmail };
